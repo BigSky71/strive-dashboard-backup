@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-04-23T20:59:14.527Z",
-  "source": "https://data.strategytracker.com/all.v20260423T204913Z.json",
-  "manifestVersion": "20260423T204913Z",
+  "fetchedAt": "2026-04-24T00:03:07.846Z",
+  "source": "https://data.strategytracker.com/all.v20260423T234919Z.json",
+  "manifestVersion": "20260423T234919Z",
   "current": {
     "asOf": "2026-04-23",
     "btc": 13767.9,
     "stockPrice": 16.2,
-    "btcPrice": 78003.66,
+    "btcPrice": 78233.76,
     "marketCap": 1129445062.2,
     "basicShares": 69718831,
     "effectiveDilutedShares": 70872989,
     "fullyDilutedShares": 97467424,
     "satsPerBasicShare": 19748,
     "satsPerDilutedShare": 19426,
-    "navPremiumBasic": 1.0516771245201662,
-    "navPremiumDiluted": 1.0690870774593075,
-    "holdingsValueUsd": 1073946590.514,
+    "navPremiumBasic": 1.0485839470178695,
+    "navPremiumDiluted": 1.0659426940559866,
+    "holdingsValueUsd": 1077114584.304,
     "costBasisUsd": 1432007342.2748353,
-    "unrealizedPl": -358060751.7608354,
-    "percentageReturn": -25.004114238131837
+    "unrealizedPl": -354892757.97083545,
+    "percentageReturn": -24.782886755808498
   },
   "history": {
     "dates": [
@@ -467,7 +467,7 @@
       75864.86,
       76348.58,
       78208.52,
-      78003.66
+      78233.76
     ],
     "stock_prices": [
       169.8,
@@ -1587,7 +1587,7 @@
       1.0426121038707552,
       1.015445502093853,
       1.078706568327297,
-      1.0516771245201662
+      1.0485839470178695
     ],
     "nav_premium_diluted": [
       10.363453952990719,
@@ -1811,7 +1811,7 @@
       1.0598719902360223,
       1.032255659880429,
       1.096563979268216,
-      1.0690870774593075
+      1.0659426940559866
     ],
     "total_outstanding_shares": [
       41422792,
@@ -2270,11 +2270,11 @@
         "asOf": "2026-04-23",
         "btc": 815061,
         "stockPrice": 172.47,
-        "btcPrice": 78003.66,
+        "btcPrice": 78233.76,
         "satsPerBasicShare": 233547,
         "satsPerDilutedShare": 213597,
-        "navPremiumBasic": 0.9467252088007758,
-        "navPremiumDiluted": 1.035149742618371
+        "navPremiumBasic": 0.9439407143504893,
+        "navPremiumDiluted": 1.0321051752119663
       },
       "history": {
         "dates": [
@@ -6445,7 +6445,7 @@
           75864.86,
           76348.58,
           78208.52,
-          78003.66
+          78233.76
         ],
         "stock_prices": [
           12.36,
@@ -16870,7 +16870,7 @@
           0.9640465186214856,
           0.9195784629078193,
           0.981966984896224,
-          0.9467252088007758
+          0.9439407143504893
         ],
         "nav_premium_diluted": [
           null,
@@ -18955,7 +18955,7 @@
           1.0540888700822237,
           1.0054674792088902,
           1.0736831154656277,
-          1.035149742618371
+          1.0321051752119663
         ],
         "total_outstanding_shares": [
           null,
