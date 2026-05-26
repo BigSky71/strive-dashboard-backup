@@ -1,7 +1,7 @@
 {
-  "savedAt": "2026-05-25T00:06:23.861Z",
+  "savedAt": "2026-05-26T00:05:24.998Z",
   "payload": {
-    "fetchedAt": "2026-05-25T00:06:23.827Z",
+    "fetchedAt": "2026-05-26T00:05:24.960Z",
     "source": "massive",
     "ticker": "SATA",
     "fullName": "Strive Variable Rate Series A Perpetual Preferred",
@@ -1674,8 +1674,8 @@
         "close": 100.01,
         "volume": 402199.607863,
         "qualifyingShares": 376861.21837100026,
-        "qualifyingDollarVolume": 37688713.827863865,
-        "qualifyingAvgPrice": 100.00687783894305,
+        "qualifyingDollarVolume": 37688713.84508786,
+        "qualifyingAvgPrice": 100.00687788464688,
         "qualifyingSource": "1m"
       }
     ],
