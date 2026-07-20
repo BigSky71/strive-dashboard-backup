@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-07-19T00:14:24.369Z",
-  "source": "https://data.strategytracker.com/all.v20260719T000409Z.json",
-  "manifestVersion": "20260719T000409Z",
+  "fetchedAt": "2026-07-20T00:13:02.414Z",
+  "source": "https://data.strategytracker.com/all.v20260719T235449Z.json",
+  "manifestVersion": "20260719T235449Z",
   "current": {
     "asOf": "2026-07-19",
     "btc": 19900,
     "stockPrice": 11.86,
-    "btcPrice": 64799.63,
+    "btcPrice": 64614.4,
     "marketCap": 987102000.4599999,
     "basicShares": 83229511,
     "effectiveDilutedShares": 85937812,
     "fullyDilutedShares": 112532247,
     "satsPerBasicShare": 23910,
     "satsPerDilutedShare": 23156,
-    "navPremiumBasic": 0.7654845498501307,
-    "navPremiumDiluted": 0.7903935340185425,
-    "holdingsValueUsd": 1289512637,
+    "navPremiumBasic": 0.767678963218803,
+    "navPremiumDiluted": 0.7926593539333951,
+    "holdingsValueUsd": 1285826560,
     "costBasisUsd": 1887815401.3808506,
-    "unrealizedPl": -598302764.3808506,
-    "percentageReturn": -31.692863822554866,
+    "unrealizedPl": -601988841.3808506,
+    "percentageReturn": -31.88812004290903,
     "debt": 0,
     "cashBalance": 198277000,
     "sataNotionalUSD": 782950000,
@@ -644,8 +644,8 @@
       64716.63,
       63770.6,
       63894,
-      64799.63,
-      64799.63
+      64796.36,
+      64614.4
     ],
     "stock_prices": [
       169.8,
@@ -2199,8 +2199,8 @@
       0.8149359170368253,
       0.7640639139139858,
       0.7763344852569103,
-      0.7654845498501307,
-      0.7654845498501307
+      0.7655231806386196,
+      0.767678963218803
     ],
     "nav_premium_diluted": [
       10.363453952990719,
@@ -2510,8 +2510,8 @@
       0.841454056246447,
       0.7889266703720546,
       0.8015965279806236,
-      0.7903935340185425,
-      0.7903935340185425
+      0.7904334218587891,
+      0.7926593539333951
     ],
     "market_cap_basic": [
       7033590081.6,
@@ -4077,14 +4077,14 @@
         "asOf": "2026-07-19",
         "btc": 843775,
         "stockPrice": 94.85,
-        "btcPrice": 64799.63,
+        "btcPrice": 64614.4,
         "marketCap": 35247587900,
         "basicShares": 371614000,
         "effectiveDilutedShares": 401294000,
         "satsPerBasicShare": 227057,
         "satsPerDilutedShare": 210264,
-        "navPremiumBasic": 0.6446592558304541,
-        "navPremiumDiluted": 0.6961467851298021,
+        "navPremiumBasic": 0.6465072995166522,
+        "navPremiumDiluted": 0.6981424280361758,
         "debt": 0,
         "cashBalance": 0,
         "storedFxRate": null,
@@ -8433,8 +8433,8 @@
           64716.63,
           63770.6,
           63894,
-          64799.63,
-          64799.63
+          64796.36,
+          64614.4
         ],
         "stock_prices": [
           12.36,
@@ -19293,8 +19293,8 @@
           0.6633160186459365,
           0.6493985974782991,
           0.6537966202442916,
-          0.6446592558304541,
-          0.6446592558304541
+          0.6446917890740895,
+          0.6465072995166522
         ],
         "nav_premium_diluted": [
           null,
@@ -21465,8 +21465,8 @@
           0.7162936229165274,
           0.7012646476625116,
           0.7060139309184067,
-          0.6961467851298021,
-          0.6961467851298021
+          0.6961819167326787,
+          0.6981424280361758
         ],
         "total_outstanding_shares": [
           null,
@@ -25820,19 +25820,19 @@
       "current": {
         "asOf": "2026-07-19",
         "btc": 43000,
-        "stockPrice": 1.360255,
-        "btcPrice": 64799.63,
-        "marketCap": 1742872455.96412,
+        "stockPrice": 1.35989919,
+        "btcPrice": 64614.4,
+        "marketCap": 1742416562.4378645,
         "basicShares": 1281283624,
         "effectiveDilutedShares": 1631543380,
         "satsPerBasicShare": 3356,
         "satsPerDilutedShare": 2636,
-        "navPremiumBasic": 0.6254961267612319,
-        "navPremiumDiluted": 0.7964856849157146,
+        "navPremiumBasic": 0.6271251517545892,
+        "navPremiumDiluted": 0.7985600304345227,
         "debt": 464065700,
         "cashBalance": 12000000,
         "storedFxRate": null,
-        "preferredNotionalUSD": 145319550,
+        "preferredNotionalUSD": 145281537.89999998,
         "latestTreasuryDate": "2026-06-30"
       },
       "history": {
@@ -27503,8 +27503,8 @@
           64716.63,
           63770.6,
           63894,
-          64799.63,
-          64799.63
+          64796.36,
+          64614.4
         ],
         "stock_prices": [
           0.125077,
@@ -28339,7 +28339,7 @@
           1.434348,
           1.360255,
           1.360255,
-          1.360255
+          1.35989919
         ],
         "btc_balance": [
           null,
@@ -31678,8 +31678,8 @@
           0.6982792131266472,
           0.6702099157587862,
           0.63436187405016,
-          0.6254961267612319,
-          0.6254961267612319
+          0.6255276929222711,
+          0.6271251517545892
         ],
         "nav_premium_diluted": [
           null,
@@ -32513,8 +32513,8 @@
           0.8891652138749184,
           0.8534227167072616,
           0.8077750286855555,
-          0.7964856849157146,
-          0.7964856849157146
+          0.7965258802012164,
+          0.7985600304345227
         ],
         "total_outstanding_shares": [
           null,
