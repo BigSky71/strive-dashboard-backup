@@ -1,5 +1,6 @@
 {
   "savedAt": "2026-08-26T00:00:47.447Z",
+  "backfilledAt": "2026-08-26T23:12:08.879Z",
   "payload": {
     "fetchedAt": "2026-08-26T00:00:23.808Z",
     "source": "massive",
@@ -1229,10 +1230,10 @@
         "low": 99.42,
         "close": 99.73,
         "volume": 429087.332832,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 49393.133711,
+        "qualifyingDollarVolume": 4939366.58243711,
+        "qualifyingAvgPrice": 100.00107730231132,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-04-01",
@@ -1409,10 +1410,10 @@
         "low": 99.55,
         "close": 99.91,
         "volume": 293300.680068,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 100000,
+        "qualifyingDollarVolume": 10000000,
+        "qualifyingAvgPrice": 100,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-04-23",
@@ -1421,10 +1422,10 @@
         "low": 99.83,
         "close": 99.97,
         "volume": 236223.276098,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 100001.2665,
+        "qualifyingDollarVolume": 10000126.65,
+        "qualifyingAvgPrice": 100,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-04-24",
@@ -1457,10 +1458,10 @@
         "low": 99.8,
         "close": 99.99,
         "volume": 235423.031789,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 60682.282204,
+        "qualifyingDollarVolume": 6068330.1904,
+        "qualifyingAvgPrice": 100.00168039164474,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-04-29",
@@ -1469,10 +1470,10 @@
         "low": 99.9,
         "close": 100.02,
         "volume": 363438.08816,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 249070.46038699997,
+        "qualifyingDollarVolume": 24909105.066461828,
+        "qualifyingAvgPrice": 100.00826684849994,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-04-30",
@@ -1481,10 +1482,10 @@
         "low": 99.79,
         "close": 99.95,
         "volume": 540529.969533,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 226038.578344,
+        "qualifyingDollarVolume": 22606018.70859124,
+        "qualifyingAvgPrice": 100.00955975836989,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-01",
@@ -1601,10 +1602,10 @@
         "low": 99.5001,
         "close": 99.92,
         "volume": 434957.157979,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 9025.079417,
+        "qualifyingDollarVolume": 902557.8258337313,
+        "qualifyingAvgPrice": 100.00552727919904,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-15",
@@ -1613,10 +1614,10 @@
         "low": 99.92,
         "close": 100,
         "volume": 543741.751776,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 329792.293445,
+        "qualifyingDollarVolume": 32980894.532071367,
+        "qualifyingAvgPrice": 100.00504920098032,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-18",
@@ -1625,10 +1626,10 @@
         "low": 99.85,
         "close": 99.96,
         "volume": 272474.763034,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 78037.85987300001,
+        "qualifyingDollarVolume": 7804226.069712232,
+        "qualifyingAvgPrice": 100.00563934496599,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-19",
@@ -1637,10 +1638,10 @@
         "low": 99.9,
         "close": 100.01,
         "volume": 408595.382462,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 245221.62092300004,
+        "qualifyingDollarVolume": 24522777.72053085,
+        "qualifyingAvgPrice": 100.00251049735553,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-20",
@@ -1649,10 +1650,10 @@
         "low": 99.97,
         "close": 100,
         "volume": 266540.10152,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 183558.92101700002,
+        "qualifyingDollarVolume": 18356952.522123218,
+        "qualifyingAvgPrice": 100.00577700292277,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-21",
@@ -1661,10 +1662,10 @@
         "low": 99.98,
         "close": 100.01,
         "volume": 311518.922988,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 286736.437647,
+        "qualifyingDollarVolume": 28675461.575174708,
+        "qualifyingAvgPrice": 100.00633965633955,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-22",
@@ -1673,10 +1674,10 @@
         "low": 99.98,
         "close": 100.01,
         "volume": 402199.607863,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 391842.7654990001,
+        "qualifyingDollarVolume": 39186800.80729879,
+        "qualifyingAvgPrice": 100.00644201608664,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-26",
@@ -1685,10 +1686,10 @@
         "low": 99.99,
         "close": 100.01,
         "volume": 590803.373642,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 570782.540786,
+        "qualifyingDollarVolume": 57081794.405415736,
+        "qualifyingAvgPrice": 100.00620258428168,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-05-27",
@@ -1697,10 +1698,10 @@
         "low": 99.99,
         "close": 100.01,
         "volume": 717138.191835,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 706735.3028130006,
+        "qualifyingDollarVolume": 70678456.45099314,
+        "qualifyingAvgPrice": 100.00697031784526,
+        "qualifyingSource": "1m"
       },
       {
         "date": "2026-05-28",
@@ -1709,10 +1710,10 @@
         "low": 99.95,
         "close": 100,
         "volume": 1025889.018678,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 747683.9458220002,
+        "qualifyingDollarVolume": 74772543.55520906,
+        "qualifyingAvgPrice": 100.0055491000338,
+        "qualifyingSource": "1m"
       },
       {
         "date": "2026-05-29",
@@ -1721,10 +1722,10 @@
         "low": 99.99,
         "close": 100.01,
         "volume": 1645888.993964,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 1622923.8932079992,
+        "qualifyingDollarVolume": 162305358.24794218,
+        "qualifyingAvgPrice": 100.00799108768842,
+        "qualifyingSource": "1m"
       },
       {
         "date": "2026-06-01",
@@ -1853,10 +1854,10 @@
         "low": 99.53,
         "close": 100.01,
         "volume": 788036.900833,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 192284.809481,
+        "qualifyingDollarVolume": 19228780.9137912,
+        "qualifyingAvgPrice": 100.00156000722058,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-06-16",
@@ -1865,10 +1866,10 @@
         "low": 99.65,
         "close": 99.99,
         "volume": 986919.862143,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 376804.64591400005,
+        "qualifyingDollarVolume": 37681306.399297245,
+        "qualifyingAvgPrice": 100.00223406984593,
+        "qualifyingSource": "5m"
       },
       {
         "date": "2026-06-17",
@@ -1877,10 +1878,10 @@
         "low": 99.88,
         "close": 100.01,
         "volume": 820897.05163,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 241548.346091,
+        "qualifyingDollarVolume": 24156282.164621513,
+        "qualifyingAvgPrice": 100.00599281901506,
+        "qualifyingSource": "1m"
       },
       {
         "date": "2026-06-18",
@@ -1889,10 +1890,10 @@
         "low": 92.88,
         "close": 97.71,
         "volume": 1606409.342682,
-        "qualifyingShares": null,
-        "qualifyingDollarVolume": null,
-        "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingShares": 293,
+        "qualifyingDollarVolume": 29300,
+        "qualifyingAvgPrice": 100,
+        "qualifyingSource": "1m"
       },
       {
         "date": "2026-06-22",
