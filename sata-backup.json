@@ -1,14 +1,24 @@
 {
-  "savedAt": "2026-08-26T00:00:47.447Z",
-  "backfilledAt": "2026-08-26T23:12:08.879Z",
+  "savedAt": "2026-08-27T00:01:10.652Z",
   "payload": {
-    "fetchedAt": "2026-08-26T00:00:23.808Z",
+    "fetchedAt": "2026-08-27T00:01:10.590Z",
     "source": "massive",
     "ticker": "SATA",
     "fullName": "Strive Variable Rate Series A Perpetual Preferred",
     "exchange": "NasdaqGM",
     "firstTradeDate": "2025-11-10",
     "parFloor": 100,
+    "qualifyingCoverageStart": "2026-02-22",
+    "overlayStatus": {
+      "ran": true,
+      "rowsIn": 199,
+      "repo": "BigSky71/strive-dashboard-backup",
+      "httpStatus": 200,
+      "archivedRows": 198,
+      "backfilledAt": "2026-08-26T23:12:08.879Z",
+      "archivedWithQual": 25,
+      "restored": 21
+    },
     "dataAvailability": {
       "daily": true,
       "fiveMin": true,
@@ -17,13 +27,13 @@
     },
     "current": {
       "price": 100,
-      "volume": 257092.729608,
-      "dayHigh": 100.01,
-      "dayLow": 99.999,
+      "volume": 226337.036602,
+      "dayHigh": 100.07,
+      "dayLow": 100,
       "fiftyTwoWeekHigh": 100.53,
       "fiftyTwoWeekLow": 82.5,
-      "lastDate": "2026-08-25",
-      "lastMinuteTs": 1787701320
+      "lastDate": "2026-08-26",
+      "lastMinuteTs": 1787786700
     },
     "disclosures": [
       {
@@ -81,7 +91,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-11",
@@ -93,7 +104,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-12",
@@ -105,7 +117,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-13",
@@ -117,7 +130,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-14",
@@ -129,7 +143,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-17",
@@ -141,7 +156,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-18",
@@ -153,7 +169,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-19",
@@ -165,7 +182,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-20",
@@ -177,7 +195,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-21",
@@ -189,7 +208,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-24",
@@ -201,7 +221,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-25",
@@ -213,7 +234,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-26",
@@ -225,7 +247,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-11-28",
@@ -237,7 +260,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-01",
@@ -249,7 +273,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-02",
@@ -261,7 +286,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-03",
@@ -273,7 +299,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-04",
@@ -285,7 +312,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-05",
@@ -297,7 +325,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-08",
@@ -309,7 +338,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-09",
@@ -321,7 +351,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-10",
@@ -333,7 +364,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-11",
@@ -345,7 +377,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-12",
@@ -357,7 +390,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-15",
@@ -369,7 +403,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-16",
@@ -381,7 +416,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-17",
@@ -393,7 +429,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-18",
@@ -405,7 +442,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-19",
@@ -417,7 +455,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-22",
@@ -429,7 +468,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-23",
@@ -441,7 +481,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-24",
@@ -453,7 +494,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-26",
@@ -465,7 +507,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-29",
@@ -477,7 +520,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-30",
@@ -489,7 +533,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2025-12-31",
@@ -501,7 +546,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-02",
@@ -513,7 +559,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-05",
@@ -525,7 +572,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-06",
@@ -537,7 +585,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-07",
@@ -549,7 +598,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-08",
@@ -561,7 +611,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-09",
@@ -573,7 +624,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-12",
@@ -585,7 +637,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-13",
@@ -597,7 +650,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-14",
@@ -609,7 +663,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-15",
@@ -621,7 +676,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-16",
@@ -633,7 +689,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-20",
@@ -645,7 +702,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-21",
@@ -657,7 +715,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-22",
@@ -669,7 +728,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-23",
@@ -681,7 +741,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-26",
@@ -693,7 +754,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-27",
@@ -705,7 +767,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-28",
@@ -717,7 +780,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-29",
@@ -729,7 +793,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-01-30",
@@ -741,7 +806,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-02",
@@ -753,7 +819,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-03",
@@ -765,7 +832,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-04",
@@ -777,7 +845,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-05",
@@ -789,7 +858,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-06",
@@ -801,7 +871,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-09",
@@ -813,7 +884,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-10",
@@ -825,7 +897,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-11",
@@ -837,7 +910,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-12",
@@ -849,7 +923,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-13",
@@ -861,7 +936,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-17",
@@ -873,7 +949,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-18",
@@ -885,7 +962,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-19",
@@ -897,7 +975,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-20",
@@ -909,7 +988,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "unmeasured"
       },
       {
         "date": "2026-02-23",
@@ -921,7 +1001,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-02-24",
@@ -933,7 +1014,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-02-25",
@@ -945,7 +1027,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-02-26",
@@ -957,7 +1040,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-02-27",
@@ -969,7 +1053,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-02",
@@ -981,7 +1066,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-03",
@@ -993,7 +1079,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-04",
@@ -1005,7 +1092,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-05",
@@ -1017,7 +1105,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-06",
@@ -1029,7 +1118,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-09",
@@ -1041,7 +1131,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-10",
@@ -1053,7 +1144,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-11",
@@ -1065,7 +1157,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-12",
@@ -1077,7 +1170,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-13",
@@ -1089,7 +1183,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-16",
@@ -1101,7 +1196,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-17",
@@ -1113,7 +1209,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-18",
@@ -1125,7 +1222,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-19",
@@ -1137,7 +1235,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-20",
@@ -1149,7 +1248,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-23",
@@ -1161,7 +1261,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-24",
@@ -1173,7 +1274,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-25",
@@ -1185,7 +1287,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-26",
@@ -1197,7 +1300,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-27",
@@ -1209,7 +1313,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-30",
@@ -1221,7 +1326,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-03-31",
@@ -1233,7 +1339,9 @@
         "qualifyingShares": 49393.133711,
         "qualifyingDollarVolume": 4939366.58243711,
         "qualifyingAvgPrice": 100.00107730231132,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-04-01",
@@ -1245,7 +1353,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-02",
@@ -1257,7 +1366,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-06",
@@ -1269,7 +1379,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-07",
@@ -1281,7 +1392,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-08",
@@ -1293,7 +1405,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-09",
@@ -1305,7 +1418,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-10",
@@ -1317,7 +1431,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-13",
@@ -1329,7 +1444,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-14",
@@ -1341,7 +1457,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-15",
@@ -1353,7 +1470,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-16",
@@ -1365,7 +1483,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-17",
@@ -1377,7 +1496,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-20",
@@ -1389,7 +1509,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-21",
@@ -1401,7 +1522,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-22",
@@ -1413,7 +1535,9 @@
         "qualifyingShares": 100000,
         "qualifyingDollarVolume": 10000000,
         "qualifyingAvgPrice": 100,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-04-23",
@@ -1425,7 +1549,9 @@
         "qualifyingShares": 100001.2665,
         "qualifyingDollarVolume": 10000126.65,
         "qualifyingAvgPrice": 100,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-04-24",
@@ -1437,7 +1563,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-27",
@@ -1449,7 +1576,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-04-28",
@@ -1461,7 +1589,9 @@
         "qualifyingShares": 60682.282204,
         "qualifyingDollarVolume": 6068330.1904,
         "qualifyingAvgPrice": 100.00168039164474,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-04-29",
@@ -1473,7 +1603,9 @@
         "qualifyingShares": 249070.46038699997,
         "qualifyingDollarVolume": 24909105.066461828,
         "qualifyingAvgPrice": 100.00826684849994,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-04-30",
@@ -1485,7 +1617,9 @@
         "qualifyingShares": 226038.578344,
         "qualifyingDollarVolume": 22606018.70859124,
         "qualifyingAvgPrice": 100.00955975836989,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-01",
@@ -1497,7 +1631,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-04",
@@ -1509,7 +1644,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-05",
@@ -1521,7 +1657,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-06",
@@ -1533,7 +1670,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-07",
@@ -1545,7 +1683,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-08",
@@ -1557,7 +1696,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-11",
@@ -1569,7 +1709,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-12",
@@ -1581,7 +1722,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-13",
@@ -1593,7 +1735,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-05-14",
@@ -1605,7 +1748,9 @@
         "qualifyingShares": 9025.079417,
         "qualifyingDollarVolume": 902557.8258337313,
         "qualifyingAvgPrice": 100.00552727919904,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-15",
@@ -1617,7 +1762,9 @@
         "qualifyingShares": 329792.293445,
         "qualifyingDollarVolume": 32980894.532071367,
         "qualifyingAvgPrice": 100.00504920098032,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-18",
@@ -1629,7 +1776,9 @@
         "qualifyingShares": 78037.85987300001,
         "qualifyingDollarVolume": 7804226.069712232,
         "qualifyingAvgPrice": 100.00563934496599,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-19",
@@ -1641,7 +1790,9 @@
         "qualifyingShares": 245221.62092300004,
         "qualifyingDollarVolume": 24522777.72053085,
         "qualifyingAvgPrice": 100.00251049735553,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-20",
@@ -1653,7 +1804,9 @@
         "qualifyingShares": 183558.92101700002,
         "qualifyingDollarVolume": 18356952.522123218,
         "qualifyingAvgPrice": 100.00577700292277,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-21",
@@ -1665,7 +1818,9 @@
         "qualifyingShares": 286736.437647,
         "qualifyingDollarVolume": 28675461.575174708,
         "qualifyingAvgPrice": 100.00633965633955,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-22",
@@ -1677,7 +1832,9 @@
         "qualifyingShares": 391842.7654990001,
         "qualifyingDollarVolume": 39186800.80729879,
         "qualifyingAvgPrice": 100.00644201608664,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-26",
@@ -1689,7 +1846,9 @@
         "qualifyingShares": 570782.540786,
         "qualifyingDollarVolume": 57081794.405415736,
         "qualifyingAvgPrice": 100.00620258428168,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-27",
@@ -1701,7 +1860,9 @@
         "qualifyingShares": 706735.3028130006,
         "qualifyingDollarVolume": 70678456.45099314,
         "qualifyingAvgPrice": 100.00697031784526,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-28",
@@ -1713,7 +1874,9 @@
         "qualifyingShares": 747683.9458220002,
         "qualifyingDollarVolume": 74772543.55520906,
         "qualifyingAvgPrice": 100.0055491000338,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-05-29",
@@ -1725,7 +1888,9 @@
         "qualifyingShares": 1622923.8932079992,
         "qualifyingDollarVolume": 162305358.24794218,
         "qualifyingAvgPrice": 100.00799108768842,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-06-01",
@@ -1737,7 +1902,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-02",
@@ -1749,7 +1915,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-03",
@@ -1761,7 +1928,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-04",
@@ -1773,7 +1941,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-05",
@@ -1785,7 +1954,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-08",
@@ -1797,7 +1967,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-09",
@@ -1809,7 +1980,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-10",
@@ -1821,7 +1993,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-11",
@@ -1833,7 +2006,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-12",
@@ -1845,7 +2019,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-15",
@@ -1857,7 +2032,9 @@
         "qualifyingShares": 192284.809481,
         "qualifyingDollarVolume": 19228780.9137912,
         "qualifyingAvgPrice": 100.00156000722058,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-06-16",
@@ -1869,7 +2046,9 @@
         "qualifyingShares": 376804.64591400005,
         "qualifyingDollarVolume": 37681306.399297245,
         "qualifyingAvgPrice": 100.00223406984593,
-        "qualifyingSource": "5m"
+        "qualifyingSource": "5m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-06-17",
@@ -1881,7 +2060,9 @@
         "qualifyingShares": 241548.346091,
         "qualifyingDollarVolume": 24156282.164621513,
         "qualifyingAvgPrice": 100.00599281901506,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-06-18",
@@ -1893,7 +2074,9 @@
         "qualifyingShares": 293,
         "qualifyingDollarVolume": 29300,
         "qualifyingAvgPrice": 100,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured",
+        "qualifyingArchived": true
       },
       {
         "date": "2026-06-22",
@@ -1905,7 +2088,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-23",
@@ -1917,7 +2101,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-24",
@@ -1929,7 +2114,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-25",
@@ -1941,7 +2127,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-26",
@@ -1953,7 +2140,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-29",
@@ -1965,7 +2153,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-06-30",
@@ -1977,7 +2166,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-01",
@@ -1989,7 +2179,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-02",
@@ -2001,7 +2192,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-06",
@@ -2013,7 +2205,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-07",
@@ -2025,7 +2218,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-08",
@@ -2037,7 +2231,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-09",
@@ -2049,7 +2244,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-10",
@@ -2061,7 +2257,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-13",
@@ -2073,7 +2270,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-14",
@@ -2085,7 +2283,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-15",
@@ -2097,7 +2296,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-16",
@@ -2109,7 +2309,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-17",
@@ -2121,7 +2322,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-20",
@@ -2133,7 +2335,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-21",
@@ -2145,7 +2348,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-22",
@@ -2157,7 +2361,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-23",
@@ -2169,7 +2374,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-24",
@@ -2181,7 +2387,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-27",
@@ -2193,7 +2400,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-28",
@@ -2205,7 +2413,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-29",
@@ -2217,7 +2426,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-30",
@@ -2229,7 +2439,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-07-31",
@@ -2241,7 +2452,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-03",
@@ -2253,7 +2465,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-04",
@@ -2265,7 +2478,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-05",
@@ -2277,7 +2491,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-06",
@@ -2289,7 +2504,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-07",
@@ -2301,7 +2517,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-10",
@@ -2313,7 +2530,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-11",
@@ -2325,7 +2543,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-12",
@@ -2337,7 +2556,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-13",
@@ -2349,7 +2569,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-14",
@@ -2361,7 +2582,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-17",
@@ -2373,7 +2595,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-18",
@@ -2385,7 +2608,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-19",
@@ -2397,7 +2621,8 @@
         "qualifyingShares": null,
         "qualifyingDollarVolume": null,
         "qualifyingAvgPrice": null,
-        "qualifyingSource": null
+        "qualifyingSource": null,
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-20",
@@ -2409,7 +2634,8 @@
         "qualifyingShares": 377266.331771,
         "qualifyingDollarVolume": 37728517.227802694,
         "qualifyingAvgPrice": 100.00499395398961,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-21",
@@ -2421,7 +2647,8 @@
         "qualifyingShares": 306847.72357499995,
         "qualifyingDollarVolume": 30686857.71372461,
         "qualifyingAvgPrice": 100.00679606223021,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-24",
@@ -2433,7 +2660,8 @@
         "qualifyingShares": 286303.6369870002,
         "qualifyingDollarVolume": 28632435.38625678,
         "qualifyingAvgPrice": 100.0072359805784,
-        "qualifyingSource": "1m"
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured"
       },
       {
         "date": "2026-08-25",
@@ -2441,2413 +2669,35 @@
         "high": 100.01,
         "low": 99.999,
         "close": 100,
-        "volume": 257092.729608,
-        "qualifyingShares": 242748.86040600002,
-        "qualifyingDollarVolume": 24276679.045065947,
-        "qualifyingAvgPrice": 100.00738625286621,
-        "qualifyingSource": "1m"
+        "volume": 257102.729608,
+        "qualifyingShares": 242990.86040600002,
+        "qualifyingDollarVolume": 24301072.64506595,
+        "qualifyingAvgPrice": 100.00817563451821,
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured"
+      },
+      {
+        "date": "2026-08-26",
+        "open": 100,
+        "high": 100.07,
+        "low": 100,
+        "close": 100.01,
+        "volume": 226337.036602,
+        "qualifyingShares": 208941.32215300004,
+        "qualifyingDollarVolume": 20895607.03815771,
+        "qualifyingAvgPrice": 100.00705855042223,
+        "qualifyingSource": "1m",
+        "qualifyingCoverage": "measured"
       }
     ],
     "intraday1m": [
       {
-        "t": 1787561100000,
-        "o": 99.94,
-        "h": 99.94,
-        "l": 99.94,
-        "c": 99.94,
-        "v": 631
-      },
-      {
-        "t": 1787569380000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 100
-      },
-      {
-        "t": 1787571600000,
-        "o": 100.0099,
-        "h": 100.0099,
-        "l": 100.0099,
-        "c": 100.0099,
-        "v": 110
-      },
-      {
-        "t": 1787572560000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 525
-      },
-      {
-        "t": 1787572740000,
-        "o": 99.95,
-        "h": 99.95,
-        "l": 99.95,
-        "c": 99.95,
-        "v": 100
-      },
-      {
-        "t": 1787573040000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 125
-      },
-      {
-        "t": 1787574840000,
-        "o": 99.96,
-        "h": 99.96,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 100
-      },
-      {
-        "t": 1787574900000,
-        "o": 99.9719,
-        "h": 99.9719,
-        "l": 99.9719,
-        "c": 99.9719,
-        "v": 100
-      },
-      {
-        "t": 1787574960000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 100
-      },
-      {
-        "t": 1787575200000,
-        "o": 99.9896,
-        "h": 99.9896,
-        "l": 99.9896,
-        "c": 99.9896,
-        "v": 200
-      },
-      {
-        "t": 1787576160000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.9899,
-        "c": 99.99,
-        "v": 2740
-      },
-      {
-        "t": 1787576880000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 1000
-      },
-      {
-        "t": 1787576940000,
-        "o": 99.98,
-        "h": 100,
-        "l": 99.95,
-        "c": 100,
-        "v": 3067
-      },
-      {
-        "t": 1787577240000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 100
-      },
-      {
-        "t": 1787577540000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 800
-      },
-      {
-        "t": 1787578200000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 6573.40581
-      },
-      {
-        "t": 1787578260000,
-        "o": 99.9641,
-        "h": 100,
-        "l": 99.9641,
-        "c": 100,
-        "v": 3092.784846
-      },
-      {
-        "t": 1787578320000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100,
-        "c": 100.0001,
-        "v": 6574.633613
-      },
-      {
-        "t": 1787578380000,
-        "o": 100,
-        "h": 100,
-        "l": 99.96,
-        "c": 99.9711,
-        "v": 2811.280787
-      },
-      {
-        "t": 1787578440000,
-        "o": 99.97,
-        "h": 99.97,
-        "l": 99.97,
-        "c": 99.97,
-        "v": 2534.129976
-      },
-      {
-        "t": 1787578500000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 549.312249
-      },
-      {
-        "t": 1787578560000,
-        "o": 99.99,
-        "h": 99.991,
-        "l": 99.9613,
-        "c": 99.9613,
-        "v": 13630.334085
-      },
-      {
-        "t": 1787578620000,
-        "o": 100.0012,
-        "h": 100.0012,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 2173.784559
-      },
-      {
-        "t": 1787578680000,
-        "o": 99.98,
-        "h": 99.98,
-        "l": 99.98,
-        "c": 99.98,
-        "v": 264.060001
-      },
-      {
-        "t": 1787578740000,
-        "o": 99.97,
-        "h": 99.97,
-        "l": 99.97,
-        "c": 99.97,
-        "v": 302.638
-      },
-      {
-        "t": 1787578800000,
-        "o": 99.96,
-        "h": 99.96,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 1051
-      },
-      {
-        "t": 1787578920000,
-        "o": 99.97,
-        "h": 99.97,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 3721.571704
-      },
-      {
-        "t": 1787578980000,
-        "o": 100,
-        "h": 100,
-        "l": 99.98,
-        "c": 99.98,
-        "v": 1177.490548
-      },
-      {
-        "t": 1787579040000,
-        "o": 99.98,
-        "h": 100,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 2286.63442
-      },
-      {
-        "t": 1787579100000,
-        "o": 99.985,
-        "h": 99.985,
-        "l": 99.97,
-        "c": 99.97,
-        "v": 1515.412048
-      },
-      {
-        "t": 1787579160000,
-        "o": 99.99,
-        "h": 100,
-        "l": 99.99,
-        "c": 100,
-        "v": 1329.15971
-      },
-      {
-        "t": 1787579220000,
-        "o": 99.97,
-        "h": 99.97,
-        "l": 99.96,
-        "c": 99.96,
-        "v": 2156.363799
-      },
-      {
-        "t": 1787579280000,
-        "o": 99.96,
-        "h": 99.9749,
-        "l": 99.96,
-        "c": 99.9749,
-        "v": 209.080006
-      },
-      {
-        "t": 1787579340000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 216.200005
-      },
-      {
-        "t": 1787579460000,
-        "o": 99.98,
-        "h": 100.01,
-        "l": 99.98,
-        "c": 100.01,
-        "v": 2224.542964
-      },
-      {
-        "t": 1787579580000,
-        "o": 100,
-        "h": 100,
-        "l": 99.97,
-        "c": 99.9999,
-        "v": 2525.0509
-      },
-      {
-        "t": 1787579640000,
-        "o": 100,
-        "h": 100,
-        "l": 99.985,
-        "c": 100,
-        "v": 877.28121
-      },
-      {
-        "t": 1787579700000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 667.411
-      },
-      {
-        "t": 1787579760000,
-        "o": 99.98,
-        "h": 100,
-        "l": 99.98,
-        "c": 100,
-        "v": 839.354194
-      },
-      {
-        "t": 1787579820000,
-        "o": 100,
-        "h": 100.01,
-        "l": 99.9854,
-        "c": 99.9854,
-        "v": 1483.966083
-      },
-      {
-        "t": 1787579880000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 409.719495
-      },
-      {
-        "t": 1787580000000,
-        "o": 99.9837,
-        "h": 99.9837,
-        "l": 99.9837,
-        "c": 99.9837,
-        "v": 166.829873
-      },
-      {
-        "t": 1787580060000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 1008.734896
-      },
-      {
-        "t": 1787580120000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 719.434818
-      },
-      {
-        "t": 1787580180000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 355.458965
-      },
-      {
-        "t": 1787580240000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.0001,
-        "v": 2016.399679
-      },
-      {
-        "t": 1787580300000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 567.006
-      },
-      {
-        "t": 1787580360000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 2420
-      },
-      {
-        "t": 1787580420000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 617.039098
-      },
-      {
-        "t": 1787580480000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 271.064004
-      },
-      {
-        "t": 1787580540000,
-        "o": 99.9901,
-        "h": 100,
-        "l": 99.9901,
-        "c": 100,
-        "v": 2127.701452
-      },
-      {
-        "t": 1787580600000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 99.9901,
-        "c": 100.0099,
-        "v": 11410.117778
-      },
-      {
-        "t": 1787580660000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 1048.325632
-      },
-      {
-        "t": 1787580720000,
-        "o": 100.0076,
-        "h": 100.01,
-        "l": 100.0076,
-        "c": 100.0089,
-        "v": 926
-      },
-      {
-        "t": 1787580780000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 202.698211
-      },
-      {
-        "t": 1787580840000,
-        "o": 100.0001,
-        "h": 100.01,
-        "l": 100.0001,
-        "c": 100.01,
-        "v": 2648.999
-      },
-      {
-        "t": 1787580900000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 916.158
-      },
-      {
-        "t": 1787580960000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 863.374395
-      },
-      {
-        "t": 1787581020000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 1503
-      },
-      {
-        "t": 1787581140000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 122
-      },
-      {
-        "t": 1787581200000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 1972.003
-      },
-      {
-        "t": 1787581260000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 1540.544415
-      },
-      {
-        "t": 1787581320000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 2704.819
-      },
-      {
-        "t": 1787581380000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 601.198996
-      },
-      {
-        "t": 1787581440000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 148.99975
-      },
-      {
-        "t": 1787581500000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 101
-      },
-      {
-        "t": 1787581560000,
-        "o": 100.0001,
-        "h": 100.005,
-        "l": 100.0001,
-        "c": 100.005,
-        "v": 423.099
-      },
-      {
-        "t": 1787581620000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.005,
-        "v": 3896.6405
-      },
-      {
-        "t": 1787581740000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 635
-      },
-      {
-        "t": 1787581800000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 213.9785
-      },
-      {
-        "t": 1787581860000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0012,
-        "c": 100.0099,
-        "v": 2531.560061
-      },
-      {
-        "t": 1787581980000,
-        "o": 100.0001,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.0003,
-        "v": 1084.201594
-      },
-      {
-        "t": 1787582040000,
-        "o": 100.0001,
-        "h": 100.005,
-        "l": 100,
-        "c": 100,
-        "v": 849.9112
-      },
-      {
-        "t": 1787582100000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1082.238
-      },
-      {
-        "t": 1787582160000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 10313.8449
-      },
-      {
-        "t": 1787582220000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1511.2499
-      },
-      {
-        "t": 1787582280000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1849.069867
-      },
-      {
-        "t": 1787582340000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 242.001959
-      },
-      {
-        "t": 1787582400000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0089,
-        "c": 100.01,
-        "v": 2182
-      },
-      {
-        "t": 1787582520000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 252.995
-      },
-      {
-        "t": 1787582580000,
-        "o": 100.008,
-        "h": 100.008,
-        "l": 100.0001,
-        "c": 100.0001,
-        "v": 846
-      },
-      {
-        "t": 1787582640000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 2711.585086
-      },
-      {
-        "t": 1787582700000,
-        "o": 100.0096,
-        "h": 100.01,
-        "l": 100.0096,
-        "c": 100.01,
-        "v": 570.387
-      },
-      {
-        "t": 1787582760000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100,
-        "c": 100,
-        "v": 454.9983
-      },
-      {
-        "t": 1787582820000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 104.173085
-      },
-      {
-        "t": 1787582880000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1581.10909
-      },
-      {
-        "t": 1787582940000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 1300.895788
-      },
-      {
-        "t": 1787583000000,
-        "o": 100,
-        "h": 100.005,
-        "l": 100,
-        "c": 100.005,
-        "v": 201.036
-      },
-      {
-        "t": 1787583060000,
-        "o": 100.0012,
-        "h": 100.01,
-        "l": 100.0012,
-        "c": 100.01,
-        "v": 488.734432
-      },
-      {
-        "t": 1787583120000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1209.289371
-      },
-      {
-        "t": 1787583180000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 673.62498
-      },
-      {
-        "t": 1787583240000,
-        "o": 100,
-        "h": 100.005,
-        "l": 100,
-        "c": 100.005,
-        "v": 414.254175
-      },
-      {
-        "t": 1787583300000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 309.689132
-      },
-      {
-        "t": 1787583360000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 552.1099
-      },
-      {
-        "t": 1787583420000,
-        "o": 100.009,
-        "h": 100.01,
-        "l": 100.009,
-        "c": 100.01,
-        "v": 4258.508
-      },
-      {
-        "t": 1787583480000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1510.39537
-      },
-      {
-        "t": 1787583540000,
-        "o": 100.0022,
-        "h": 100.0022,
-        "l": 100.0022,
-        "c": 100.0022,
-        "v": 770.619023
-      },
-      {
-        "t": 1787583600000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 803.059
-      },
-      {
-        "t": 1787583660000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 655.802009
-      },
-      {
-        "t": 1787583720000,
-        "o": 100.0002,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 5709.650579
-      },
-      {
-        "t": 1787583780000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1622.38086
-      },
-      {
-        "t": 1787583840000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100,
-        "c": 100.005,
-        "v": 653.600444
-      },
-      {
-        "t": 1787583900000,
-        "o": 100.0051,
-        "h": 100.0051,
-        "l": 100,
-        "c": 100,
-        "v": 2099.0219
-      },
-      {
-        "t": 1787583960000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.0001,
-        "c": 100.01,
-        "v": 3491.852095
-      },
-      {
-        "t": 1787584020000,
-        "o": 100.0011,
-        "h": 100.01,
-        "l": 100.0011,
-        "c": 100.005,
-        "v": 658.90225
-      },
-      {
-        "t": 1787584140000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 309.299835
-      },
-      {
-        "t": 1787584200000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 380.429793
-      },
-      {
-        "t": 1787584260000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 221.97698
-      },
-      {
-        "t": 1787584380000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1705.1
-      },
-      {
-        "t": 1787584440000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 100.201989
-      },
-      {
-        "t": 1787584500000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.0001,
-        "c": 100.01,
-        "v": 1166.764981
-      },
-      {
-        "t": 1787584620000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1748.63419
-      },
-      {
-        "t": 1787584680000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 106.889483
-      },
-      {
-        "t": 1787584740000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0097,
-        "c": 100.0097,
-        "v": 920
-      },
-      {
-        "t": 1787584800000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 862.022398
-      },
-      {
-        "t": 1787584860000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 731.583997
-      },
-      {
-        "t": 1787584920000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 553.2
-      },
-      {
-        "t": 1787584980000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 2700.006548
-      },
-      {
-        "t": 1787585100000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 400
-      },
-      {
-        "t": 1787585160000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 383.599961
-      },
-      {
-        "t": 1787585220000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 496.1799
-      },
-      {
-        "t": 1787585280000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0051,
-        "c": 100.0051,
-        "v": 509.245073
-      },
-      {
-        "t": 1787585340000,
-        "o": 100.0089,
-        "h": 100.0089,
-        "l": 100.0089,
-        "c": 100.0089,
-        "v": 396.634895
-      },
-      {
-        "t": 1787585400000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 715.704129
-      },
-      {
-        "t": 1787585460000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 151
-      },
-      {
-        "t": 1787585580000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 100
-      },
-      {
-        "t": 1787585640000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 169.9594
-      },
-      {
-        "t": 1787585760000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 704.921586
-      },
-      {
-        "t": 1787585820000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.0001,
-        "v": 1667.300684
-      },
-      {
-        "t": 1787585880000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1406
-      },
-      {
-        "t": 1787585940000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 103.263
-      },
-      {
-        "t": 1787586000000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 232.029997
-      },
-      {
-        "t": 1787586060000,
-        "o": 100.0084,
-        "h": 100.0084,
-        "l": 100.0084,
-        "c": 100.0084,
-        "v": 441.009999
-      },
-      {
-        "t": 1787586120000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 401
-      },
-      {
-        "t": 1787586240000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 7606.6659
-      },
-      {
-        "t": 1787586300000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 1406.024999
-      },
-      {
-        "t": 1787586360000,
-        "o": 99.9998,
-        "h": 100,
-        "l": 99.9998,
-        "c": 100,
-        "v": 241.78
-      },
-      {
-        "t": 1787586420000,
-        "o": 99.9995,
-        "h": 99.9995,
-        "l": 99.9995,
-        "c": 99.9995,
-        "v": 101.496056
-      },
-      {
-        "t": 1787586480000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 544.862992
-      },
-      {
-        "t": 1787586540000,
-        "o": 99.9962,
-        "h": 100,
-        "l": 99.9962,
-        "c": 100,
-        "v": 294.0627
-      },
-      {
-        "t": 1787586600000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 162.157401
-      },
-      {
-        "t": 1787586660000,
-        "o": 99.9901,
-        "h": 99.995,
-        "l": 99.9901,
-        "c": 99.995,
-        "v": 410
-      },
-      {
-        "t": 1787586780000,
-        "o": 99.9999,
-        "h": 99.9999,
-        "l": 99.9999,
-        "c": 99.9999,
-        "v": 100
-      },
-      {
-        "t": 1787587140000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 203
-      },
-      {
-        "t": 1787587200000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 344.001
-      },
-      {
-        "t": 1787587260000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 150.218
-      },
-      {
-        "t": 1787587380000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 156.150001
-      },
-      {
-        "t": 1787587620000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 250.2136
-      },
-      {
-        "t": 1787587680000,
-        "o": 100,
-        "h": 100,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 300
-      },
-      {
-        "t": 1787587740000,
-        "o": 99.9963,
-        "h": 99.9963,
-        "l": 99.9963,
-        "c": 99.9963,
-        "v": 302.223
-      },
-      {
-        "t": 1787587800000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 504.05
-      },
-      {
-        "t": 1787587920000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 200
-      },
-      {
-        "t": 1787587980000,
-        "o": 99.9984,
-        "h": 99.9984,
-        "l": 99.9984,
-        "c": 99.9984,
-        "v": 345
-      },
-      {
-        "t": 1787588040000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 404.34345
-      },
-      {
-        "t": 1787588100000,
-        "o": 99.9982,
-        "h": 100,
-        "l": 99.9923,
-        "c": 99.9923,
-        "v": 424.527459
-      },
-      {
-        "t": 1787588400000,
-        "o": 99.9984,
-        "h": 100,
-        "l": 99.9984,
-        "c": 100,
-        "v": 251.414904
-      },
-      {
-        "t": 1787588520000,
-        "o": 99.99,
-        "h": 99.99,
-        "l": 99.99,
-        "c": 99.99,
-        "v": 794.112
-      },
-      {
-        "t": 1787588700000,
-        "o": 100,
-        "h": 100,
-        "l": 99.992,
-        "c": 99.992,
-        "v": 391.01
-      },
-      {
-        "t": 1787588760000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 248.54655
-      },
-      {
-        "t": 1787588820000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 190.011
-      },
-      {
-        "t": 1787588940000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 507.844433
-      },
-      {
-        "t": 1787589180000,
-        "o": 99.995,
-        "h": 100,
-        "l": 99.995,
-        "c": 100,
-        "v": 380.6102
-      },
-      {
-        "t": 1787589240000,
-        "o": 100,
-        "h": 100,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 523.2114
-      },
-      {
-        "t": 1787589360000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 251.01
-      },
-      {
-        "t": 1787589420000,
-        "o": 100,
-        "h": 100,
-        "l": 99.995,
-        "c": 100,
-        "v": 418.01005
-      },
-      {
-        "t": 1787589480000,
-        "o": 99.995,
-        "h": 100,
-        "l": 99.995,
-        "c": 99.9999,
-        "v": 355.00535
-      },
-      {
-        "t": 1787589600000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 127.221204
-      },
-      {
-        "t": 1787589660000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 475.2
-      },
-      {
-        "t": 1787589780000,
-        "o": 99.995,
-        "h": 99.9999,
-        "l": 99.995,
-        "c": 99.9999,
-        "v": 818.319
-      },
-      {
-        "t": 1787589840000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 200
-      },
-      {
-        "t": 1787589900000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 228.1
-      },
-      {
-        "t": 1787589960000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 101
-      },
-      {
-        "t": 1787590020000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 270
-      },
-      {
-        "t": 1787590140000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 250.018382
-      },
-      {
-        "t": 1787590260000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 105
-      },
-      {
-        "t": 1787590440000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 515
-      },
-      {
-        "t": 1787590620000,
-        "o": 100,
-        "h": 100,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 221.0344
-      },
-      {
-        "t": 1787590680000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 2015.110002
-      },
-      {
-        "t": 1787590740000,
-        "o": 99.995,
-        "h": 100,
-        "l": 99.995,
-        "c": 100,
-        "v": 201
-      },
-      {
-        "t": 1787590920000,
-        "o": 99.9902,
-        "h": 100,
-        "l": 99.9902,
-        "c": 100,
-        "v": 689
-      },
-      {
-        "t": 1787590980000,
-        "o": 99.995,
-        "h": 99.995,
-        "l": 99.995,
-        "c": 99.995,
-        "v": 241.146
-      },
-      {
-        "t": 1787591100000,
-        "o": 100,
-        "h": 100,
-        "l": 99.991,
-        "c": 99.991,
-        "v": 882
-      },
-      {
-        "t": 1787591220000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 426.2
-      },
-      {
-        "t": 1787591400000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 1120.019999
-      },
-      {
-        "t": 1787591520000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 249.262028
-      },
-      {
-        "t": 1787591580000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1013
-      },
-      {
-        "t": 1787591640000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 5362.49965
-      },
-      {
-        "t": 1787591760000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 119.499
-      },
-      {
-        "t": 1787591820000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 345
-      },
-      {
-        "t": 1787591880000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 4843.283625
-      },
-      {
-        "t": 1787592000000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 100.00999
-      },
-      {
-        "t": 1787592060000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1724
-      },
-      {
-        "t": 1787592120000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100,
-        "c": 100,
-        "v": 2264.88419
-      },
-      {
-        "t": 1787592420000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 463
-      },
-      {
-        "t": 1787592600000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 101
-      },
-      {
-        "t": 1787592660000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 212.349982
-      },
-      {
-        "t": 1787592720000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.0023,
-        "c": 100.0023,
-        "v": 425.648251
-      },
-      {
-        "t": 1787592780000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 109.99925
-      },
-      {
-        "t": 1787592960000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 120.849
-      },
-      {
-        "t": 1787593020000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 553.04999
-      },
-      {
-        "t": 1787593080000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0099,
-        "c": 100.0099,
-        "v": 271
-      },
-      {
-        "t": 1787593140000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 114
-      },
-      {
-        "t": 1787593560000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 220
-      },
-      {
-        "t": 1787593620000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 703.79
-      },
-      {
-        "t": 1787593680000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 154.010197
-      },
-      {
-        "t": 1787593740000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 351
-      },
-      {
-        "t": 1787593920000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 145.9208
-      },
-      {
-        "t": 1787593980000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 577.92
-      },
-      {
-        "t": 1787594220000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 120.249981
-      },
-      {
-        "t": 1787594280000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 291.0005
-      },
-      {
-        "t": 1787594340000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 228.8611
-      },
-      {
-        "t": 1787594520000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 159.162892
-      },
-      {
-        "t": 1787594640000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1002
-      },
-      {
-        "t": 1787594760000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 653.305318
-      },
-      {
-        "t": 1787595000000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 202.049996
-      },
-      {
-        "t": 1787595060000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 3215
-      },
-      {
-        "t": 1787595180000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.009,
-        "c": 100.009,
-        "v": 210
-      },
-      {
-        "t": 1787595240000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0011,
-        "c": 100.0011,
-        "v": 1363
-      },
-      {
-        "t": 1787595300000,
-        "o": 100,
-        "h": 100.005,
-        "l": 100,
-        "c": 100,
-        "v": 1667.487809
-      },
-      {
-        "t": 1787595360000,
-        "o": 100.005,
-        "h": 100.0051,
-        "l": 100.005,
-        "c": 100.0051,
-        "v": 450
-      },
-      {
-        "t": 1787595420000,
-        "o": 100.0076,
-        "h": 100.0076,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 284.8497
-      },
-      {
-        "t": 1787595540000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 307
-      },
-      {
-        "t": 1787595660000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 759
-      },
-      {
-        "t": 1787595720000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0099,
-        "c": 100.0099,
-        "v": 307.24
-      },
-      {
-        "t": 1787595780000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0001,
-        "c": 100.0001,
-        "v": 287
-      },
-      {
-        "t": 1787595960000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 102
-      },
-      {
-        "t": 1787596020000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 404.039997
-      },
-      {
-        "t": 1787596080000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 315
-      },
-      {
-        "t": 1787596200000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0099,
-        "c": 100.0099,
-        "v": 1395.266992
-      },
-      {
-        "t": 1787596380000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 210
-      },
-      {
-        "t": 1787596500000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 110
-      },
-      {
-        "t": 1787596560000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 1305.02284
-      },
-      {
-        "t": 1787596620000,
-        "o": 100,
-        "h": 100.005,
-        "l": 100,
-        "c": 100.005,
-        "v": 1561.136889
-      },
-      {
-        "t": 1787596740000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 135
-      },
-      {
-        "t": 1787596800000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 230
-      },
-      {
-        "t": 1787596860000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 136.073
-      },
-      {
-        "t": 1787597040000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 464
-      },
-      {
-        "t": 1787597100000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 293.997
-      },
-      {
-        "t": 1787597340000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 121.06
-      },
-      {
-        "t": 1787597400000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 280.049
-      },
-      {
-        "t": 1787597460000,
-        "o": 100.0012,
-        "h": 100.0012,
-        "l": 100.0012,
-        "c": 100.0012,
-        "v": 281.018275
-      },
-      {
-        "t": 1787597520000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 407
-      },
-      {
-        "t": 1787597580000,
-        "o": 100.0011,
-        "h": 100.0011,
-        "l": 100.0011,
-        "c": 100.0011,
-        "v": 245.851499
-      },
-      {
-        "t": 1787597700000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.0076,
-        "v": 671
-      },
-      {
-        "t": 1787597760000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 51330.061
-      },
-      {
-        "t": 1787597820000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 131.999
-      },
-      {
-        "t": 1787597940000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0001,
-        "c": 100.0001,
-        "v": 902.781649
-      },
-      {
-        "t": 1787598000000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1025
-      },
-      {
-        "t": 1787598120000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 100
-      },
-      {
-        "t": 1787598180000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100,
-        "c": 100,
-        "v": 1250.88308
-      },
-      {
-        "t": 1787598300000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 112
-      },
-      {
-        "t": 1787598360000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 600
-      },
-      {
-        "t": 1787598480000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 174.91059
-      },
-      {
-        "t": 1787598540000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 248.054922
-      },
-      {
-        "t": 1787598600000,
-        "o": 100.0001,
-        "h": 100.0001,
-        "l": 100.0001,
-        "c": 100.0001,
-        "v": 207.699
-      },
-      {
-        "t": 1787598660000,
-        "o": 100.0089,
-        "h": 100.0089,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 354.223674
-      },
-      {
-        "t": 1787598780000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 521
-      },
-      {
-        "t": 1787598840000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 500.199995
-      },
-      {
-        "t": 1787598960000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 510.999
-      },
-      {
-        "t": 1787599020000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 104.36995
-      },
-      {
-        "t": 1787599080000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 170
-      },
-      {
-        "t": 1787599200000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 183
-      },
-      {
-        "t": 1787599320000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 550.184
-      },
-      {
-        "t": 1787599380000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 191
-      },
-      {
-        "t": 1787599440000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 233
-      },
-      {
-        "t": 1787599560000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 138
-      },
-      {
-        "t": 1787599620000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 285
-      },
-      {
-        "t": 1787599680000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 128.122369
-      },
-      {
-        "t": 1787599920000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 191.029
-      },
-      {
-        "t": 1787599980000,
-        "o": 100,
-        "h": 100.0001,
-        "l": 100,
-        "c": 100.0001,
-        "v": 499
-      },
-      {
-        "t": 1787600040000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 128
-      },
-      {
-        "t": 1787600100000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 5000
-      },
-      {
-        "t": 1787600160000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 1342.0261
-      },
-      {
-        "t": 1787600280000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.0099,
-        "c": 100.0099,
-        "v": 1962.502526
-      },
-      {
-        "t": 1787600340000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 497.265787
-      },
-      {
-        "t": 1787600520000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 171
-      },
-      {
-        "t": 1787600580000,
-        "o": 100,
-        "h": 100.01,
-        "l": 100,
-        "c": 100.01,
-        "v": 614.11
-      },
-      {
-        "t": 1787600640000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 612.949928
-      },
-      {
-        "t": 1787600700000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 653.13
-      },
-      {
-        "t": 1787600760000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.002,
-        "c": 100.002,
-        "v": 355
-      },
-      {
-        "t": 1787600820000,
-        "o": 100.0061,
-        "h": 100.0061,
-        "l": 100.0061,
-        "c": 100.0061,
-        "v": 202.719946
-      },
-      {
-        "t": 1787600880000,
-        "o": 100.005,
-        "h": 100.005,
-        "l": 100.005,
-        "c": 100.005,
-        "v": 1427
-      },
-      {
-        "t": 1787600940000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 209.1781
-      },
-      {
-        "t": 1787601000000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 719
-      },
-      {
-        "t": 1787601060000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 104
-      },
-      {
-        "t": 1787601120000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 414.949928
-      },
-      {
-        "t": 1787601180000,
-        "o": 100.0096,
-        "h": 100.0096,
-        "l": 100.0096,
-        "c": 100.0096,
-        "v": 201
-      },
-      {
-        "t": 1787601300000,
-        "o": 100.005,
-        "h": 100.01,
-        "l": 100.002,
-        "c": 100.01,
-        "v": 1684.0451
-      },
-      {
-        "t": 1787601360000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 1082.699
-      },
-      {
-        "t": 1787601420000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 812.024
-      },
-      {
-        "t": 1787601480000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 1623
-      },
-      {
-        "t": 1787601540000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.005,
-        "c": 100.01,
-        "v": 3529.556908
-      },
-      {
-        "t": 1787602440000,
-        "o": 100.0001,
-        "h": 100.0001,
-        "l": 100.0001,
-        "c": 100.0001,
-        "v": 105
-      },
-      {
-        "t": 1787603940000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 200
-      },
-      {
-        "t": 1787605620000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 100
-      },
-      {
-        "t": 1787606220000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 1000
-      },
-      {
-        "t": 1787608020000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 305
-      },
-      {
-        "t": 1787608380000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 100
-      },
-      {
-        "t": 1787610360000,
-        "o": 100,
-        "h": 100,
-        "l": 100,
-        "c": 100,
-        "v": 1000
-      },
-      {
-        "t": 1787614080000,
-        "o": 100.01,
-        "h": 100.01,
-        "l": 100.01,
-        "c": 100.01,
-        "v": 100
+        "t": 1787644860000,
+        "o": 100.8,
+        "h": 100.8,
+        "l": 100.8,
+        "c": 100.8,
+        "v": 242
       },
       {
         "t": 1787655600000,
@@ -7136,6 +4986,2030 @@
         "l": 100,
         "c": 100,
         "v": 304
+      },
+      {
+        "t": 1787731800000,
+        "o": 99.95,
+        "h": 99.95,
+        "l": 99.95,
+        "c": 99.95,
+        "v": 113
+      },
+      {
+        "t": 1787736300000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 111
+      },
+      {
+        "t": 1787736660000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 271
+      },
+      {
+        "t": 1787742000000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 842
+      },
+      {
+        "t": 1787743140000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 300
+      },
+      {
+        "t": 1787746860000,
+        "o": 100,
+        "h": 100.0001,
+        "l": 100,
+        "c": 100.0001,
+        "v": 998
+      },
+      {
+        "t": 1787749080000,
+        "o": 100.0082,
+        "h": 100.0082,
+        "l": 100.0082,
+        "c": 100.0082,
+        "v": 100
+      },
+      {
+        "t": 1787749500000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 101
+      },
+      {
+        "t": 1787750700000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 2014
+      },
+      {
+        "t": 1787751000000,
+        "o": 100,
+        "h": 100.07,
+        "l": 100,
+        "c": 100.01,
+        "v": 7928.151885
+      },
+      {
+        "t": 1787751060000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 550.259497
+      },
+      {
+        "t": 1787751120000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 320.94664
+      },
+      {
+        "t": 1787751180000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 2329.262278
+      },
+      {
+        "t": 1787751240000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.0099,
+        "v": 1830.069994
+      },
+      {
+        "t": 1787751300000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 556.255047
+      },
+      {
+        "t": 1787751360000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.0099,
+        "v": 770.820972
+      },
+      {
+        "t": 1787751420000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 1974.196591
+      },
+      {
+        "t": 1787751480000,
+        "o": 100.0051,
+        "h": 100.0051,
+        "l": 100.0051,
+        "c": 100.0051,
+        "v": 1133.838998
+      },
+      {
+        "t": 1787751540000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100,
+        "c": 100,
+        "v": 660.611
+      },
+      {
+        "t": 1787751600000,
+        "o": 100.002,
+        "h": 100.01,
+        "l": 100.0012,
+        "c": 100.002,
+        "v": 3816.1
+      },
+      {
+        "t": 1787751660000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 1219.22443
+      },
+      {
+        "t": 1787751720000,
+        "o": 100.0012,
+        "h": 100.008,
+        "l": 100.0007,
+        "c": 100.005,
+        "v": 570.717449
+      },
+      {
+        "t": 1787751780000,
+        "o": 100.002,
+        "h": 100.01,
+        "l": 100.0016,
+        "c": 100.0016,
+        "v": 604.179993
+      },
+      {
+        "t": 1787751900000,
+        "o": 100.0051,
+        "h": 100.0051,
+        "l": 100.0051,
+        "c": 100.0051,
+        "v": 539.250109
+      },
+      {
+        "t": 1787751960000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0003,
+        "c": 100.0003,
+        "v": 1366.969767
+      },
+      {
+        "t": 1787752020000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 297.132604
+      },
+      {
+        "t": 1787752080000,
+        "o": 100.009,
+        "h": 100.009,
+        "l": 100.009,
+        "c": 100.009,
+        "v": 316.041475
+      },
+      {
+        "t": 1787752140000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0001,
+        "c": 100.0001,
+        "v": 584.804242
+      },
+      {
+        "t": 1787752260000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 651.183295
+      },
+      {
+        "t": 1787752320000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 228.065449
+      },
+      {
+        "t": 1787752440000,
+        "o": 100.0045,
+        "h": 100.01,
+        "l": 100.0045,
+        "c": 100.01,
+        "v": 545.988401
+      },
+      {
+        "t": 1787752500000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 314.061533
+      },
+      {
+        "t": 1787752560000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 747.338962
+      },
+      {
+        "t": 1787752920000,
+        "o": 100.005,
+        "h": 100.009,
+        "l": 100.005,
+        "c": 100.009,
+        "v": 309.07599
+      },
+      {
+        "t": 1787752980000,
+        "o": 100.0012,
+        "h": 100.0089,
+        "l": 100.0012,
+        "c": 100.0089,
+        "v": 499.09999
+      },
+      {
+        "t": 1787753040000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.0009,
+        "v": 1702
+      },
+      {
+        "t": 1787753160000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 346
+      },
+      {
+        "t": 1787753220000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 10130.500779
+      },
+      {
+        "t": 1787753280000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 2218.3362
+      },
+      {
+        "t": 1787753340000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 20129.21518
+      },
+      {
+        "t": 1787753400000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 208.506299
+      },
+      {
+        "t": 1787753520000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 1229.041998
+      },
+      {
+        "t": 1787753580000,
+        "o": 100.0001,
+        "h": 100.0001,
+        "l": 100.0001,
+        "c": 100.0001,
+        "v": 179.03039
+      },
+      {
+        "t": 1787753640000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 254.997
+      },
+      {
+        "t": 1787753700000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 590.476644
+      },
+      {
+        "t": 1787753820000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 972.169499
+      },
+      {
+        "t": 1787753880000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 220.10987
+      },
+      {
+        "t": 1787753940000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.0099,
+        "v": 3569.4831
+      },
+      {
+        "t": 1787754060000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0084,
+        "c": 100.0084,
+        "v": 221.137399
+      },
+      {
+        "t": 1787754120000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 326.009999
+      },
+      {
+        "t": 1787754180000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 643.361499
+      },
+      {
+        "t": 1787754300000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 216.011039
+      },
+      {
+        "t": 1787754360000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 401.0001
+      },
+      {
+        "t": 1787754420000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 356
+      },
+      {
+        "t": 1787754480000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100,
+        "c": 100,
+        "v": 2468.372
+      },
+      {
+        "t": 1787754720000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 296.146992
+      },
+      {
+        "t": 1787754840000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 124.17668
+      },
+      {
+        "t": 1787754900000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 430.04999
+      },
+      {
+        "t": 1787754960000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 214.164
+      },
+      {
+        "t": 1787755140000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 431.459354
+      },
+      {
+        "t": 1787755200000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 244.101
+      },
+      {
+        "t": 1787755320000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 298.4
+      },
+      {
+        "t": 1787755380000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.0099,
+        "v": 577
+      },
+      {
+        "t": 1787755440000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.01,
+        "v": 2836.633337
+      },
+      {
+        "t": 1787755500000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.0012,
+        "v": 558.394394
+      },
+      {
+        "t": 1787755680000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 111.121
+      },
+      {
+        "t": 1787755860000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 250.079
+      },
+      {
+        "t": 1787755920000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 546.903455
+      },
+      {
+        "t": 1787755980000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 210
+      },
+      {
+        "t": 1787756040000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 2332
+      },
+      {
+        "t": 1787756100000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 804
+      },
+      {
+        "t": 1787756280000,
+        "o": 100.0001,
+        "h": 100.0001,
+        "l": 100.0001,
+        "c": 100.0001,
+        "v": 106
+      },
+      {
+        "t": 1787756340000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 626.540477
+      },
+      {
+        "t": 1787756640000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.0099,
+        "v": 817.99967
+      },
+      {
+        "t": 1787756700000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 416.518562
+      },
+      {
+        "t": 1787756880000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 708.5939
+      },
+      {
+        "t": 1787756940000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 495.6656
+      },
+      {
+        "t": 1787757000000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 260
+      },
+      {
+        "t": 1787757060000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 203.099992
+      },
+      {
+        "t": 1787757120000,
+        "o": 100.0012,
+        "h": 100.0012,
+        "l": 100.0012,
+        "c": 100.0012,
+        "v": 130.1066
+      },
+      {
+        "t": 1787757180000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.001,
+        "c": 100.005,
+        "v": 1220.007499
+      },
+      {
+        "t": 1787757240000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 526.274
+      },
+      {
+        "t": 1787757360000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 196.039175
+      },
+      {
+        "t": 1787757420000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 282.892496
+      },
+      {
+        "t": 1787757480000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 787.752981
+      },
+      {
+        "t": 1787757540000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 259
+      },
+      {
+        "t": 1787757600000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 211.3999
+      },
+      {
+        "t": 1787757660000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 2180.79
+      },
+      {
+        "t": 1787757720000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 402.985061
+      },
+      {
+        "t": 1787757780000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 239.01
+      },
+      {
+        "t": 1787757900000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 166
+      },
+      {
+        "t": 1787757960000,
+        "o": 100.0001,
+        "h": 100.01,
+        "l": 100.0001,
+        "c": 100.005,
+        "v": 908.303
+      },
+      {
+        "t": 1787758020000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 318.03279
+      },
+      {
+        "t": 1787758080000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 448.6788
+      },
+      {
+        "t": 1787758140000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 450.2689
+      },
+      {
+        "t": 1787758380000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 586.457626
+      },
+      {
+        "t": 1787758440000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 338.388
+      },
+      {
+        "t": 1787758560000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.001,
+        "c": 100.01,
+        "v": 1101.235094
+      },
+      {
+        "t": 1787758860000,
+        "o": 100.0011,
+        "h": 100.0011,
+        "l": 100.0011,
+        "c": 100.0011,
+        "v": 164
+      },
+      {
+        "t": 1787758980000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 117.9994
+      },
+      {
+        "t": 1787759100000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 296.009999
+      },
+      {
+        "t": 1787759220000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 303
+      },
+      {
+        "t": 1787759280000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 6588.028422
+      },
+      {
+        "t": 1787759640000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 200
+      },
+      {
+        "t": 1787759700000,
+        "o": 100.006,
+        "h": 100.006,
+        "l": 100.006,
+        "c": 100.006,
+        "v": 211.7658
+      },
+      {
+        "t": 1787759820000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 499
+      },
+      {
+        "t": 1787759880000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 1055.009999
+      },
+      {
+        "t": 1787760060000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 102.928806
+      },
+      {
+        "t": 1787760180000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 280
+      },
+      {
+        "t": 1787760300000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 113.24998
+      },
+      {
+        "t": 1787760360000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 227
+      },
+      {
+        "t": 1787760480000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 265
+      },
+      {
+        "t": 1787760720000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 601.049
+      },
+      {
+        "t": 1787760780000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 10106
+      },
+      {
+        "t": 1787760840000,
+        "o": 100.006,
+        "h": 100.006,
+        "l": 100.006,
+        "c": 100.006,
+        "v": 220
+      },
+      {
+        "t": 1787760900000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 109.01475
+      },
+      {
+        "t": 1787761020000,
+        "o": 100.006,
+        "h": 100.006,
+        "l": 100.006,
+        "c": 100.006,
+        "v": 100
+      },
+      {
+        "t": 1787761320000,
+        "o": 100.0001,
+        "h": 100.005,
+        "l": 100.0001,
+        "c": 100.005,
+        "v": 1450
+      },
+      {
+        "t": 1787761440000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 617
+      },
+      {
+        "t": 1787761500000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 519
+      },
+      {
+        "t": 1787761620000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 485.965
+      },
+      {
+        "t": 1787761800000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 2190.906
+      },
+      {
+        "t": 1787762040000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 210
+      },
+      {
+        "t": 1787762160000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 367.044397
+      },
+      {
+        "t": 1787762340000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 207.280591
+      },
+      {
+        "t": 1787762520000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 300
+      },
+      {
+        "t": 1787762580000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 123.472897
+      },
+      {
+        "t": 1787762640000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 222
+      },
+      {
+        "t": 1787762700000,
+        "o": 100.005,
+        "h": 100.009,
+        "l": 100.005,
+        "c": 100.009,
+        "v": 381.002
+      },
+      {
+        "t": 1787762760000,
+        "o": 100.0051,
+        "h": 100.01,
+        "l": 100.0051,
+        "c": 100.01,
+        "v": 220.336974
+      },
+      {
+        "t": 1787762820000,
+        "o": 100.0089,
+        "h": 100.0089,
+        "l": 100.0089,
+        "c": 100.0089,
+        "v": 101.121
+      },
+      {
+        "t": 1787762880000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 783.60903
+      },
+      {
+        "t": 1787763000000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 219.992802
+      },
+      {
+        "t": 1787763360000,
+        "o": 100.009,
+        "h": 100.009,
+        "l": 100.009,
+        "c": 100.009,
+        "v": 166
+      },
+      {
+        "t": 1787763480000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 519
+      },
+      {
+        "t": 1787763540000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 200
+      },
+      {
+        "t": 1787763720000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 150
+      },
+      {
+        "t": 1787763780000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 949.068
+      },
+      {
+        "t": 1787763960000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 115
+      },
+      {
+        "t": 1787764140000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 120
+      },
+      {
+        "t": 1787764500000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 572.055403
+      },
+      {
+        "t": 1787764620000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 227
+      },
+      {
+        "t": 1787764800000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 106.119
+      },
+      {
+        "t": 1787764860000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 1571.0499
+      },
+      {
+        "t": 1787765160000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 283.034497
+      },
+      {
+        "t": 1787765340000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 108
+      },
+      {
+        "t": 1787765400000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 139.04999
+      },
+      {
+        "t": 1787765640000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 200.049997
+      },
+      {
+        "t": 1787765700000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 3335.09899
+      },
+      {
+        "t": 1787765760000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 311.008999
+      },
+      {
+        "t": 1787765940000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 212
+      },
+      {
+        "t": 1787766060000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 116.4797
+      },
+      {
+        "t": 1787766240000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 209.355978
+      },
+      {
+        "t": 1787766420000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 573
+      },
+      {
+        "t": 1787766540000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 203
+      },
+      {
+        "t": 1787766720000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 243.023
+      },
+      {
+        "t": 1787766780000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 294.009
+      },
+      {
+        "t": 1787766840000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 236
+      },
+      {
+        "t": 1787766960000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 175
+      },
+      {
+        "t": 1787767200000,
+        "o": 100.0012,
+        "h": 100.0012,
+        "l": 100.0012,
+        "c": 100.0012,
+        "v": 592.049997
+      },
+      {
+        "t": 1787767380000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 394
+      },
+      {
+        "t": 1787767440000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 104.049997
+      },
+      {
+        "t": 1787767500000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 190.073094
+      },
+      {
+        "t": 1787767560000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0097,
+        "c": 100.0097,
+        "v": 485.1479
+      },
+      {
+        "t": 1787767620000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 100.169987
+      },
+      {
+        "t": 1787767740000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 421
+      },
+      {
+        "t": 1787767920000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 262.187485
+      },
+      {
+        "t": 1787767980000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 105.199985
+      },
+      {
+        "t": 1787768100000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 711.056622
+      },
+      {
+        "t": 1787768340000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0099,
+        "c": 100.01,
+        "v": 920
+      },
+      {
+        "t": 1787768400000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 154.010899
+      },
+      {
+        "t": 1787768460000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 291.499975
+      },
+      {
+        "t": 1787768520000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 315.139998
+      },
+      {
+        "t": 1787768640000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 791.99929
+      },
+      {
+        "t": 1787768760000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 261.019999
+      },
+      {
+        "t": 1787768820000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 192.4991
+      },
+      {
+        "t": 1787768880000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 312.01
+      },
+      {
+        "t": 1787769120000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 147
+      },
+      {
+        "t": 1787769180000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.0097,
+        "c": 100.0097,
+        "v": 584.117494
+      },
+      {
+        "t": 1787769240000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 105
+      },
+      {
+        "t": 1787769300000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 520
+      },
+      {
+        "t": 1787769360000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 399
+      },
+      {
+        "t": 1787769420000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 209
+      },
+      {
+        "t": 1787769540000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 241
+      },
+      {
+        "t": 1787769600000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 3020
+      },
+      {
+        "t": 1787769660000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 143
+      },
+      {
+        "t": 1787769720000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 101.108
+      },
+      {
+        "t": 1787769780000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 104.00999
+      },
+      {
+        "t": 1787769900000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 216
+      },
+      {
+        "t": 1787770020000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 504.0494
+      },
+      {
+        "t": 1787770080000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 289
+      },
+      {
+        "t": 1787770140000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 240.5787
+      },
+      {
+        "t": 1787770200000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 282.9
+      },
+      {
+        "t": 1787770260000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 105
+      },
+      {
+        "t": 1787770320000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 641
+      },
+      {
+        "t": 1787770380000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 100
+      },
+      {
+        "t": 1787770560000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 334
+      },
+      {
+        "t": 1787770620000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 509
+      },
+      {
+        "t": 1787770740000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 447
+      },
+      {
+        "t": 1787770980000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 1011.512358
+      },
+      {
+        "t": 1787771040000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 1002.49955
+      },
+      {
+        "t": 1787771100000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 235
+      },
+      {
+        "t": 1787771160000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 2502.514424
+      },
+      {
+        "t": 1787771220000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.0001,
+        "v": 6307.618776
+      },
+      {
+        "t": 1787771280000,
+        "o": 100,
+        "h": 100.009,
+        "l": 100,
+        "c": 100.009,
+        "v": 610.016393
+      },
+      {
+        "t": 1787771340000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 476
+      },
+      {
+        "t": 1787771400000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 5014.9405
+      },
+      {
+        "t": 1787771460000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 113
+      },
+      {
+        "t": 1787771700000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 618.22096
+      },
+      {
+        "t": 1787771760000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100,
+        "v": 597
+      },
+      {
+        "t": 1787771820000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 108.999925
+      },
+      {
+        "t": 1787772000000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 274.4059
+      },
+      {
+        "t": 1787772060000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 111.00119
+      },
+      {
+        "t": 1787772240000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 1096.104092
+      },
+      {
+        "t": 1787772300000,
+        "o": 100.0086,
+        "h": 100.0086,
+        "l": 100.0086,
+        "c": 100.0086,
+        "v": 501
+      },
+      {
+        "t": 1787772360000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 273.449
+      },
+      {
+        "t": 1787772420000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 232.0121
+      },
+      {
+        "t": 1787772600000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 545.345
+      },
+      {
+        "t": 1787772660000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 1509
+      },
+      {
+        "t": 1787772720000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 1556.558
+      },
+      {
+        "t": 1787772900000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 249
+      },
+      {
+        "t": 1787773020000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 222.9996
+      },
+      {
+        "t": 1787773140000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 401.604992
+      },
+      {
+        "t": 1787773200000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 201.309977
+      },
+      {
+        "t": 1787773260000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 433.076963
+      },
+      {
+        "t": 1787773320000,
+        "o": 100.0098,
+        "h": 100.0098,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 356.108791
+      },
+      {
+        "t": 1787773440000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 204
+      },
+      {
+        "t": 1787773500000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 378.749
+      },
+      {
+        "t": 1787773560000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 346.0109
+      },
+      {
+        "t": 1787773680000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 483.99845
+      },
+      {
+        "t": 1787773740000,
+        "o": 100.005,
+        "h": 100.01,
+        "l": 100.005,
+        "c": 100.01,
+        "v": 980.049997
+      },
+      {
+        "t": 1787773800000,
+        "o": 100,
+        "h": 100.005,
+        "l": 100,
+        "c": 100.005,
+        "v": 448.4
+      },
+      {
+        "t": 1787773920000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 200
+      },
+      {
+        "t": 1787773980000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 453
+      },
+      {
+        "t": 1787774040000,
+        "o": 100.005,
+        "h": 100.005,
+        "l": 100.005,
+        "c": 100.005,
+        "v": 318.099995
+      },
+      {
+        "t": 1787774100000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 219.500074
+      },
+      {
+        "t": 1787774280000,
+        "o": 100.0099,
+        "h": 100.0099,
+        "l": 100.0099,
+        "c": 100.0099,
+        "v": 191.073122
+      },
+      {
+        "t": 1787774340000,
+        "o": 100,
+        "h": 100.01,
+        "l": 100,
+        "c": 100.01,
+        "v": 732
+      },
+      {
+        "t": 1787774520000,
+        "o": 99.9938,
+        "h": 99.9938,
+        "l": 99.9938,
+        "c": 99.9938,
+        "v": 105
+      },
+      {
+        "t": 1787775840000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 1594
+      },
+      {
+        "t": 1787775900000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 987
+      },
+      {
+        "t": 1787776020000,
+        "o": 100,
+        "h": 100,
+        "l": 99.9999,
+        "c": 99.9999,
+        "v": 800
+      },
+      {
+        "t": 1787776080000,
+        "o": 99.99,
+        "h": 99.99,
+        "l": 99.99,
+        "c": 99.99,
+        "v": 512
+      },
+      {
+        "t": 1787776140000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 100
+      },
+      {
+        "t": 1787777760000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 388
+      },
+      {
+        "t": 1787779860000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 8200
+      },
+      {
+        "t": 1787780700000,
+        "o": 100,
+        "h": 100.0001,
+        "l": 100,
+        "c": 100,
+        "v": 680
+      },
+      {
+        "t": 1787781000000,
+        "o": 99.99,
+        "h": 99.99,
+        "l": 99.99,
+        "c": 99.99,
+        "v": 520
+      },
+      {
+        "t": 1787781060000,
+        "o": 99.99,
+        "h": 99.99,
+        "l": 99.99,
+        "c": 99.99,
+        "v": 317
+      },
+      {
+        "t": 1787784840000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 500
+      },
+      {
+        "t": 1787784900000,
+        "o": 100.01,
+        "h": 100.01,
+        "l": 100.01,
+        "c": 100.01,
+        "v": 800
+      },
+      {
+        "t": 1787785020000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 100
+      },
+      {
+        "t": 1787786700000,
+        "o": 100,
+        "h": 100,
+        "l": 100,
+        "c": 100,
+        "v": 506
       }
     ],
     "intradayGranularity": "1m"
